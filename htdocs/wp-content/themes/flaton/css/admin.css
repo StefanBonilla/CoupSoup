@@ -1,0 +1,151 @@
+.redux-sidebar .redux-group-menu li:nth-child(7) a.redux-group-tab-link-a {
+	background: #1ABA9B;
+	color: #fff;
+	-moz-box-shadow: inset 0 0 5px 5px #12A086;
+	-webkit-box-shadow: inset 0 0 5px 5px#12A086;
+	box-shadow: inset 0 0 5px 5px #12A086;	
+}
+
+.btn-upgrade {
+	text-align: right;
+	font-size: 1.1em;
+	font-family: 'Open Sans',​ sans-seri;
+}
+
+.btn-upgrade a {
+	display: inline-block;
+	border: 5px solid #E4E2E2;
+	-webkit-border-radius:	3px;
+	-moz-border-radius:		3px;
+	border-radius:			3px;
+	text-decoration: none;
+	color: #fff;
+	background-color: #F05151;
+	position: relative;
+	height: 40px;
+	line-height: 40px;
+	padding-left: 50px;
+	padding-right: 20px;
+	-webkit-transition:	all 0.5s;
+	-moz-transition:	all 0.5s;
+	-o-transition:		all 0.5s;
+	-ms-transition:		all 0.5s;
+	transition:			all 0.5s;	
+	font-family: 'Open Sans',​ sans-serif;
+	font-weight: 700;	
+}
+
+.btn-upgrade a i {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	background-color: #D53F3F;
+	left: 0px;
+	text-align: center;
+	line-height: 40px;
+	font-size: 1.2em;
+}
+
+.btn-upgrade a:hover {
+	background-color: #D53F3F;
+}
+
+.btn-upgrade a.vide-demo {
+	background-color: #CECBCB;
+	color: #000;
+}
+
+.btn-upgrade a.vide-demo i {
+	background-color: #ACA8A8;
+}
+
+.btn-upgrade a.vide-demo:hover {
+	background-color: #ACA8A8;
+}
+
+.btn-upgrade span {
+	padding: 0 15px;
+}
+
+.btn-upgrade a.btn-help {
+	padding: 0 10px;
+	background-color: #CECBCB;
+	color: #000;
+	margin-left: 10px;
+}
+
+.redux-group-table .one-third {
+	border: 2px solid #E8E8E8;
+    min-height: 160px;
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 20px 0;
+    -webkit-box-shadow:	5px 5px 0px #eee;
+    -moz-box-shadow:	5px 5px 0px #eee;
+    box-shadow:			5px 5px 0px #eee;
+    min-height: 180px;
+}
+
+.redux-group-table .one-third h3 {
+	text-align: center;
+	border: 0;
+	color: #222;
+	padding: 0 20px;
+}
+
+.redux-group-table .one-third .icon-wrap {
+	text-align: center;
+}
+
+.redux-group-table .one-third i {
+	font-size: 3em;
+	color: #1ABA9B;
+}
+
+.redux-group-table .one-third p {
+	padding: 0 20px;
+}
+
+.column, .columns                           { float: left; display: inline; margin-left: 1%; margin-right: 1%; } /*10px Margin*/
+.one-third.column                { width: 30%; } /*300px*/
+.two-thirds.column               { width: 64.5%; } /*620px*/
+
+/* #Tablet (Portrait)
+================================================== */
+    /* Note: Design for a width of 768px */
+
+    @media only screen and (min-width: 768px) and (max-width: 959px) {
+
+        .one-third.column                { width: 30.72%; } /*236px*/
+        .two-thirds.column               { width: 64%; } /*492px*/
+    }
+
+
+/*  #Mobile (Portrait)
+================================================== */
+    /* Note: Design for a width of 320px */
+
+    @media only screen and (max-width: 767px) {
+        .one-third.column,
+        .two-thirds.column  { width: 100%; } /*300px*/
+
+    }
+
+
+/* #Mobile (Landscape)
+================================================== */
+    /* Note: Design for a width of 480px */
+
+    @media only screen and (min-width: 480px) and (max-width: 767px) {
+        .one-third.column,
+        .two-thirds.column { width: 100%; } /*420px*/
+    }
+
+.redux-notice-field p.redux-info-icon {
+	color: #1aba9b;
+}    
+
+
+.redux-notice-field p a {
+	color: #D53F3F;
+}

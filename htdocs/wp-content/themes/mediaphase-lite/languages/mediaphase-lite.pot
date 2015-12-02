@@ -1,0 +1,741 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mediaphase Lite\n"
+"POT-Creation-Date: 2015-08-18 09:23-0000\n"
+"PO-Revision-Date: 2015-08-18 09:24-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:27
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:34 comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:39 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:40 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:41
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:41
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:41
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:55
+msgid "Social"
+msgstr ""
+
+#: functions.php:66
+msgid "Home"
+msgstr ""
+
+#: functions.php:72
+msgid "Products"
+msgstr ""
+
+#: functions.php:78
+msgid "Product 1"
+msgstr ""
+
+#: functions.php:85
+msgid "Product 2"
+msgstr ""
+
+#: functions.php:92
+msgid "Product 3"
+msgstr ""
+
+#: functions.php:99
+msgid "About"
+msgstr ""
+
+#: functions.php:105
+msgid "Contact"
+msgstr ""
+
+#: functions.php:124
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:130
+msgid "Wordpress"
+msgstr ""
+
+#: functions.php:136
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:142
+msgid "Dribbble"
+msgstr ""
+
+#: functions.php:148
+msgid "Google+"
+msgstr ""
+
+#: functions.php:191
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:201
+msgid "Main Features Left"
+msgstr ""
+
+#: functions.php:210
+msgid "Main Features Right"
+msgstr ""
+
+#: functions.php:219 inc/customizer.php:324
+msgid "Sub Features"
+msgstr ""
+
+#: functions.php:228
+msgid "Footer"
+msgstr ""
+
+#: functions.php:237
+msgid "Team"
+msgstr ""
+
+#: functions.php:252
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:297
+msgid "Search"
+msgstr ""
+
+#: functions.php:300
+msgid "Categories"
+msgstr ""
+
+#: functions.php:303 functions.php:304
+msgid "Recent Posts"
+msgstr ""
+
+#: functions.php:307
+msgid "Recent Comments"
+msgstr ""
+
+#: functions.php:310
+msgid "Meta"
+msgstr ""
+
+#: functions.php:313
+msgid "Text Widget"
+msgstr ""
+
+#: functions.php:316
+msgid "Browse Site"
+msgstr ""
+
+#: functions.php:319
+msgid "Member 1"
+msgstr ""
+
+#: functions.php:320
+msgid "Member 2"
+msgstr ""
+
+#: functions.php:321
+msgid "Member 3"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Homepage Setup"
+msgstr ""
+
+#: inc/customizer.php:79
+msgid "Header logo"
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Show header logo or text"
+msgstr ""
+
+#: inc/customizer.php:96
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:96 inc/customizer.php:117 inc/customizer.php:270
+#: inc/customizer.php:317 inc/customizer.php:387 inc/customizer.php:434
+#: inc/customizer.php:479 inc/customizer.php:524 inc/customizer.php:582
+msgid "Text"
+msgstr ""
+
+#: inc/customizer.php:106 inc/customizer.php:653
+msgid "Logo image"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Header contacts"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Show header contacts"
+msgstr ""
+
+#: inc/customizer.php:141 inc/customizer.php:186 inc/customizer.php:249
+#: inc/customizer.php:296 inc/customizer.php:343 inc/customizer.php:368
+#: inc/customizer.php:413 inc/customizer.php:460 inc/customizer.php:505
+#: inc/customizer.php:561 inc/customizer.php:608 inc/customizer.php:643
+#: inc/customizer.php:678
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer.php:141 inc/customizer.php:186 inc/customizer.php:249
+#: inc/customizer.php:296 inc/customizer.php:343 inc/customizer.php:368
+#: inc/customizer.php:413 inc/customizer.php:460 inc/customizer.php:505
+#: inc/customizer.php:561 inc/customizer.php:608 inc/customizer.php:643
+#: inc/customizer.php:678
+msgid "No"
+msgstr ""
+
+#: inc/customizer.php:150
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Email"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Hero Banner"
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Big banner section on the front page - background image, title and text"
+msgstr ""
+
+#: inc/customizer.php:182
+msgid "Show hero banner in the front page"
+msgstr ""
+
+#: inc/customizer.php:196 inc/customizer.php:259 inc/customizer.php:306
+#: inc/customizer.php:423 inc/customizer.php:571
+msgid "Background image"
+msgstr ""
+
+#: inc/customizer.php:207 inc/customizer.php:377 inc/customizer.php:469
+#: inc/customizer.php:514
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:218
+msgid "Main text"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Ribbons"
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "Top Ribbon"
+msgstr ""
+
+#: inc/customizer.php:232
+msgid "Top ribbon section on the front page - background image and text"
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Show top ribbon on the front page"
+msgstr ""
+
+#: inc/customizer.php:277
+msgid "Main Features"
+msgstr ""
+
+#: inc/customizer.php:279
+msgid "Main features section (front page, widgetized area)"
+msgstr ""
+
+#: inc/customizer.php:292
+msgid "Show main features on the front page"
+msgstr ""
+
+#: inc/customizer.php:326
+msgid "Sub features section (front page, widgetized area)"
+msgstr ""
+
+#: inc/customizer.php:339
+msgid "Show sub features on the front page"
+msgstr ""
+
+#: inc/customizer.php:349
+msgid "About us"
+msgstr ""
+
+#: inc/customizer.php:351
+msgid "About us section (front page)"
+msgstr ""
+
+#: inc/customizer.php:364
+msgid "Show about us section on the front page"
+msgstr ""
+
+#: inc/customizer.php:394
+msgid "Middle Ribbon"
+msgstr ""
+
+#: inc/customizer.php:396
+msgid "Middle ribbon section on the front page - background image and text"
+msgstr ""
+
+#: inc/customizer.php:409
+msgid "Show middle ribbon on the front page"
+msgstr ""
+
+#: inc/customizer.php:441
+msgid "Meet the team"
+msgstr ""
+
+#: inc/customizer.php:443
+msgid "Meet the team section (front page)"
+msgstr ""
+
+#: inc/customizer.php:456
+msgid "Show meet the team section on the front page"
+msgstr ""
+
+#: inc/customizer.php:486
+msgid "Latest news"
+msgstr ""
+
+#: inc/customizer.php:488
+msgid "Latest news section (front page)"
+msgstr ""
+
+#: inc/customizer.php:501
+msgid "Show latest news section on the front page"
+msgstr ""
+
+#: inc/customizer.php:535
+msgid "Number of news items to show"
+msgstr ""
+
+#: inc/customizer.php:542
+msgid "Bottom Ribbon"
+msgstr ""
+
+#: inc/customizer.php:544
+msgid "Bottom ribbon section on the front page - background image and text"
+msgstr ""
+
+#: inc/customizer.php:557
+msgid "Show bottom ribbon on the front page"
+msgstr ""
+
+#: inc/customizer.php:589
+msgid "Customer Logos"
+msgstr ""
+
+#: inc/customizer.php:591
+msgid "Logos section on the front page"
+msgstr ""
+
+#: inc/customizer.php:604
+msgid "Show logos on the front page"
+msgstr ""
+
+#: inc/customizer.php:618
+msgid "Logos image"
+msgstr ""
+
+#: inc/customizer.php:626
+msgid "Footer logo"
+msgstr ""
+
+#: inc/customizer.php:639
+msgid "Show footer logo"
+msgstr ""
+
+#: inc/customizer.php:661
+msgid "Full width page"
+msgstr ""
+
+#: inc/customizer.php:674
+msgid "Make the pages full width"
+msgstr ""
+
+#: inc/customizer.php:687
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer.php:700
+msgid "Header Font"
+msgstr ""
+
+#: inc/customizer.php:716
+msgid "Body Font"
+msgstr ""
+
+#: inc/customizer.php:726
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer.php:731
+msgid "Customize theme colors"
+msgstr ""
+
+#: inc/extras.php:55
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/mediaphase-upsell.php:17 inc/mediaphase-upsell.php:18
+msgid "Get More Themes"
+msgstr ""
+
+#: inc/mediaphase-upsell.php:121
+msgid "Current theme"
+msgstr ""
+
+#: inc/mediaphase-upsell.php:164
+msgid "Activate"
+msgstr ""
+
+#: inc/mediaphase-upsell.php:177
+msgid "Install Now"
+msgstr ""
+
+#: inc/mediaphase-upsell.php:182
+msgid "Live Preview"
+msgstr ""
+
+#: inc/partials/content-404.php:3
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: inc/partials/content-404.php:10
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: inc/partials/content-404.php:27
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: inc/partials/content-archives.php:35
+#: inc/partials/content-blog-default.php:35
+#: inc/partials/content-blog-grid.php:40 inc/partials/content-home-news.php:57
+#: inc/partials/content-page.php:24 inc/partials/content-search.php:34
+#: inc/partials/content-single.php:30
+msgid "Posted By"
+msgstr ""
+
+#: inc/partials/content-archives.php:43
+#: inc/partials/content-blog-default.php:43
+#: inc/partials/content-blog-grid.php:48 inc/partials/content-page.php:32
+#: inc/partials/content-single.php:38 inc/partials/content.php:30
+msgid "Pages:"
+msgstr ""
+
+#: inc/partials/content-archives.php:52
+#: inc/partials/content-blog-default.php:52 inc/partials/content-page.php:42
+#: inc/partials/content-search.php:44 inc/partials/content-single.php:56
+#: inc/template-tags.php:147
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/partials/content-archives.php:52
+#: inc/partials/content-blog-default.php:52
+#: inc/partials/content-blog-grid.php:55 inc/partials/content-home-news.php:63
+#: inc/partials/content-page.php:42 inc/partials/content-search.php:44
+#: inc/partials/content-single.php:56 inc/template-tags.php:147
+msgid "1 Comment"
+msgstr ""
+
+#: inc/partials/content-archives.php:52
+#: inc/partials/content-blog-default.php:52
+#: inc/partials/content-blog-grid.php:55 inc/partials/content-home-news.php:63
+#: inc/partials/content-page.php:42 inc/partials/content-search.php:44
+#: inc/partials/content-single.php:56 inc/template-tags.php:147
+msgid "% Comments"
+msgstr ""
+
+#: inc/partials/content-blog-grid.php:55 inc/partials/content-home-news.php:63
+msgid "0 Comments"
+msgstr ""
+
+#: inc/partials/content-inner-navigation-404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/partials/content-inner-navigation-search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/partials/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/partials/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/partials/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/partials/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/partials/content-page.php:36 inc/partials/content-single.php:42
+#: inc/template-tags.php:151
+msgid "Edit"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/partials/content-single.php:46 inc/template-tags.php:133
+#: inc/template-tags.php:139
+msgid ", "
+msgstr ""
+
+#: inc/partials/content-single.php:48 inc/template-tags.php:141
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/partials/content.php:23
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:24
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:60
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:93
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:98
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:116
+msgid " ago"
+msgstr ""
+
+#: inc/template-tags.php:135
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:169
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:171
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:173
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:175
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:175
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:177
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:177
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:179
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:179
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:182
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:184
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:186
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:188
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:190
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:192
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:194
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:196
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:198
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:201
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:205
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:207
+msgid "Archives"
+msgstr ""
+
+#: inc/widgets/feature-widget.php:92 inc/widgets/team-member-widget.php:98
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/feature-widget.php:101
+msgid "URL:"
+msgstr ""
+
+#: inc/widgets/feature-widget.php:109
+msgid ""
+"Icon (see <a href=\"http://fortawesome.github.io/Font-Awesome/icons/\" "
+"target=\"_blank\">this link</a> for reference):"
+msgstr ""
+
+#: inc/widgets/feature-widget.php:116 inc/widgets/team-member-widget.php:105
+msgid "Text:"
+msgstr ""
+
+#: inc/widgets/team-member-widget.php:112
+msgid "Twitter url"
+msgstr ""
+
+#: inc/widgets/team-member-widget.php:118
+msgid "Facebook url"
+msgstr ""
+
+#: inc/widgets/team-member-widget.php:124
+msgid "Dribbble url"
+msgstr ""
+
+#: inc/widgets/team-member-widget.php:130
+msgid "Linkedin url"
+msgstr ""
+
+#: inc/widgets/team-member-widget.php:136
+msgid "Google+ url"
+msgstr ""
+
+#: inc/widgets/team-member-widget.php:144
+msgid "Image:"
+msgstr ""
+
+#: inc/widgets/team-member-widget.php:148
+msgid "Select Image"
+msgstr ""
